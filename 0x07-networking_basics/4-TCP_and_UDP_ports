@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# displays listening sockets with PID & name of prog 2 which each socket belong
+
+netstat -lp

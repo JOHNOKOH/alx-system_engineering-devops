@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# This script displays "Best School" 10 times
-a=0
-while ((a < 10))
-do
-	echo "Best School"
-	((a++))
-done
