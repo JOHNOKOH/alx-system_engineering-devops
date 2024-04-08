@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+#Solutions to tasks on Adagoloyi library
+=======
 0x06. Regular expression
 
 In this project i learnt about regular expression being the expression used regularly. Different types of this expressions were seen and some practice was done using regex. Tasks below furthe rhelped to understand this concept:
@@ -43,3 +46,4 @@ For this task, you’ll be taking over Guillaume’s responsibilities: one after
 Requirements:
 
 Your script should output: [SENDER],[RECEIVER],[FLAGS] The sender phone number or name (including country code if present) The receiver phone number or name (including country code if present) The flags that were used You can find a [log file here].
+>>>>>>> 894a348b2708483539956d908ff2088c95b9af0e
